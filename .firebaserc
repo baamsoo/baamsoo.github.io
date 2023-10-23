@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "baamsoo-d96e6"
-  }
+    "default": "baam-soo",
+    "baamsoo": "baam-soo"
+  },
+  "targets": {},
+  "etags": {}
 }
