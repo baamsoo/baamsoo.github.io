@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "firebase": "^10.5.0"
+    "axios": "^1.5.1",
+    "firebase": "^10.5.0",
+    "node-fetch": "^3.3.2",
+    "uuid": "^9.0.1"
   }
 }
